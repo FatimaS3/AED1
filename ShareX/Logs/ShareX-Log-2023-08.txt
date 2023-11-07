@@ -1,0 +1,118 @@
+﻿2023-08-06 15:14:12.871 - ShareX starting.
+2023-08-06 15:14:12.901 - Version: 15.0
+2023-08-06 15:14:12.901 - Build: Release
+2023-08-06 15:14:12.901 - Command line: "C:\Program Files\ShareX\ShareX.exe"
+2023-08-06 15:14:12.901 - Personal path: C:\Users\Administrador\Documents\ShareX
+2023-08-06 15:14:12.901 - Operating system: Windows 10 Home Single Language (64-bit)
+2023-08-06 15:14:12.904 - Running as elevated process: True
+2023-08-06 15:14:13.721 - ApplicationConfig file does not exist: C:\Users\Administrador\Documents\ShareX\ApplicationConfig.json
+2023-08-06 15:14:13.721 - ApplicationConfig file does not exist: C:\Users\Administrador\Documents\ShareX\ApplicationConfig.json.temp
+2023-08-06 15:14:13.721 - ApplicationConfig file does not exist: C:\Users\Administrador\Documents\ShareX\Backup\ApplicationConfig.json
+2023-08-06 15:14:13.721 - Loading new ApplicationConfig instance.
+2023-08-06 15:14:14.939 - UploadersConfig file does not exist: C:\Users\Administrador\Documents\ShareX\UploadersConfig.json
+2023-08-06 15:14:14.941 - UploadersConfig file does not exist: C:\Users\Administrador\Documents\ShareX\UploadersConfig.json.temp
+2023-08-06 15:14:14.941 - UploadersConfig file does not exist: C:\Users\Administrador\Documents\ShareX\Backup\UploadersConfig.json
+2023-08-06 15:14:14.941 - Loading new UploadersConfig instance.
+2023-08-06 15:14:14.969 - HotkeysConfig file does not exist: C:\Users\Administrador\Documents\ShareX\HotkeysConfig.json
+2023-08-06 15:14:14.970 - HotkeysConfig file does not exist: C:\Users\Administrador\Documents\ShareX\HotkeysConfig.json.temp
+2023-08-06 15:14:14.970 - HotkeysConfig file does not exist: C:\Users\Administrador\Documents\ShareX\Backup\HotkeysConfig.json
+2023-08-06 15:14:14.970 - Loading new HotkeysConfig instance.
+2023-08-06 15:14:14.997 - MainForm init started.
+2023-08-06 15:14:16.143 - MainForm init finished.
+2023-08-06 15:14:16.563 - Startup time: 4461 ms
+2023-08-06 15:14:16.630 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capturar região, Job: RectangleRegion
+2023-08-06 15:14:16.630 - Hotkey registered: Hotkey: Print Screen, Description: Capturar a tela inteira, Job: PrintScreen
+2023-08-06 15:14:16.630 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capturar janela ativa, Job: ActiveWindow
+2023-08-06 15:14:16.630 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2023-08-06 15:14:16.631 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Gravar tela (GIF), Job: ScreenRecorderGIF
+2023-08-06 15:14:16.632 - HotkeyManager started.
+2023-08-06 15:14:16.634 - WatchFolderManager started.
+2023-08-06 15:14:26.961 - Hotkey unregistered: Hotkey: None, Description: Capturar região, Job: RectangleRegion
+2023-08-06 15:14:28.624 - Unable to register hotkey: Print Screen
+2023-08-06 15:14:28.624 - Hotkey register failed: Hotkey: Print Screen, Description: Capturar região, Job: RectangleRegion
+2023-08-06 15:14:28.624 - Unable to register hotkey: Print Screen
+2023-08-06 15:14:28.624 - Hotkey register failed: Hotkey: Print Screen, Description: Capturar região, Job: RectangleRegion
+2023-08-06 15:14:29.142 - Hotkey unregistered: Hotkey: None, Description: Capturar a tela inteira, Job: PrintScreen
+2023-08-06 15:14:29.142 - Hotkey registered: Hotkey: Print Screen, Description: Capturar região, Job: RectangleRegion
+2023-08-06 15:14:30.387 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capturar a tela inteira, Job: PrintScreen
+2023-08-06 15:14:35.268 - HotkeysConfig save started: C:\Users\Administrador\Documents\ShareX\HotkeysConfig.json
+2023-08-06 15:14:35.570 - HotkeysConfig save successful: C:\Users\Administrador\Documents\ShareX\HotkeysConfig.json
+2023-08-06 15:15:14.467 - UploadersConfig save started: C:\Users\Administrador\Documents\ShareX\UploadersConfig.json
+2023-08-06 15:15:14.467 - ApplicationConfig save started: C:\Users\Administrador\Documents\ShareX\ApplicationConfig.json
+2023-08-06 15:15:14.468 - HotkeysConfig save started: C:\Users\Administrador\Documents\ShareX\HotkeysConfig.json
+2023-08-06 15:15:14.733 - HotkeysConfig save successful: C:\Users\Administrador\Documents\ShareX\HotkeysConfig.json
+2023-08-06 15:15:14.797 - ApplicationConfig save successful: C:\Users\Administrador\Documents\ShareX\ApplicationConfig.json
+2023-08-06 15:15:14.908 - UploadersConfig save successful: C:\Users\Administrador\Documents\ShareX\UploadersConfig.json
+2023-08-06 15:15:55.364 - Executing: Abrir janela principal
+2023-08-06 15:16:01.135 - Executing: Capturar região
+2023-08-06 15:16:06.707 - Hotkey unregistered: Hotkey: None, Description: Capturar região, Job: RectangleRegion
+2023-08-06 15:16:07.788 - Hotkey registered: Hotkey: Print Screen, Description: Capturar região, Job: RectangleRegion
+2023-08-06 15:16:08.501 - HotkeysConfig save started: C:\Users\Administrador\Documents\ShareX\HotkeysConfig.json
+2023-08-06 15:16:08.675 - HotkeysConfig save successful: C:\Users\Administrador\Documents\ShareX\HotkeysConfig.json
+2023-08-06 15:16:09.198 - Hotkey triggered. Hotkey: Print Screen, Description: Capturar região, Job: RectangleRegion
+2023-08-06 15:16:09.198 - Executing: Capturar região
+2023-08-06 15:16:12.884 - Task in queue. Job: Job, Type: Image, Host: 
+2023-08-06 15:16:13.052 - Task status: Preparing
+2023-08-06 15:16:17.061 - Task stopped. File name: chrome_fDcZdupket.bmp
+2023-08-06 15:16:29.449 - ApplicationConfig save started: C:\Users\Administrador\Documents\ShareX\ApplicationConfig.json
+2023-08-06 15:16:29.449 - UploadersConfig save started: C:\Users\Administrador\Documents\ShareX\UploadersConfig.json
+2023-08-06 15:16:29.449 - HotkeysConfig save started: C:\Users\Administrador\Documents\ShareX\HotkeysConfig.json
+2023-08-06 15:16:29.591 - UploadersConfig save successful: C:\Users\Administrador\Documents\ShareX\UploadersConfig.json
+2023-08-06 15:16:29.666 - HotkeysConfig save successful: C:\Users\Administrador\Documents\ShareX\HotkeysConfig.json
+2023-08-06 15:16:29.684 - ApplicationConfig save successful: C:\Users\Administrador\Documents\ShareX\ApplicationConfig.json
+2023-08-06 15:48:12.857 - ShareX closing.
+2023-08-06 15:48:12.861 - ApplicationConfig save started: C:\Users\Administrador\Documents\ShareX\ApplicationConfig.json
+2023-08-06 15:48:13.201 - ApplicationConfig save successful: C:\Users\Administrador\Documents\ShareX\ApplicationConfig.json
+2023-08-06 15:48:13.201 - UploadersConfig save started: C:\Users\Administrador\Documents\ShareX\UploadersConfig.json
+2023-08-06 15:48:13.418 - UploadersConfig save successful: C:\Users\Administrador\Documents\ShareX\UploadersConfig.json
+2023-08-06 15:48:13.419 - HotkeysConfig save started: C:\Users\Administrador\Documents\ShareX\HotkeysConfig.json
+2023-08-06 15:48:13.644 - HotkeysConfig save successful: C:\Users\Administrador\Documents\ShareX\HotkeysConfig.json
+2023-08-06 15:48:13.644 - ShareX closed.
+2023-08-06 15:49:21.376 - ShareX starting.
+2023-08-06 15:49:21.406 - Version: 15.0
+2023-08-06 15:49:21.406 - Build: Release
+2023-08-06 15:49:21.407 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2023-08-06 15:49:21.407 - Personal path: C:\Users\Administrador\Documents\ShareX
+2023-08-06 15:49:21.407 - Operating system: Windows 10 Home Single Language (64-bit)
+2023-08-06 15:49:21.408 - Running as elevated process: True
+2023-08-06 15:49:21.461 - Flags: SilentRun
+2023-08-06 15:49:21.571 - ApplicationConfig load started: C:\Users\Administrador\Documents\ShareX\ApplicationConfig.json
+2023-08-06 15:49:22.933 - ApplicationConfig load finished: C:\Users\Administrador\Documents\ShareX\ApplicationConfig.json
+2023-08-06 15:49:22.941 - UploadersConfig load started: C:\Users\Administrador\Documents\ShareX\UploadersConfig.json
+2023-08-06 15:49:22.978 - MainForm init started.
+2023-08-06 15:49:23.238 - UploadersConfig load finished: C:\Users\Administrador\Documents\ShareX\UploadersConfig.json
+2023-08-06 15:49:23.243 - HotkeysConfig load started: C:\Users\Administrador\Documents\ShareX\HotkeysConfig.json
+2023-08-06 15:49:23.451 - HotkeysConfig load finished: C:\Users\Administrador\Documents\ShareX\HotkeysConfig.json
+2023-08-06 15:49:24.182 - MainForm init finished.
+2023-08-06 15:49:24.411 - Startup time: 3515 ms
+2023-08-06 15:49:24.417 - CommandLine: -silent
+2023-08-06 15:49:24.443 - Hotkey registered: Hotkey: Print Screen, Description: Capturar região, Job: RectangleRegion
+2023-08-06 15:49:24.443 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capturar a tela inteira, Job: PrintScreen
+2023-08-06 15:49:24.443 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capturar janela ativa, Job: ActiveWindow
+2023-08-06 15:49:24.443 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Gravar tela, Job: ScreenRecorder
+2023-08-06 15:49:24.443 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Gravar tela (GIF), Job: ScreenRecorderGIF
+2023-08-06 15:49:24.446 - HotkeyManager started.
+2023-08-06 15:49:24.447 - WatchFolderManager started.
+2023-08-06 16:14:04.003 - ApplicationConfig save started: C:\Users\Administrador\Documents\ShareX\ApplicationConfig.json
+2023-08-06 16:14:04.003 - HotkeysConfig save started: C:\Users\Administrador\Documents\ShareX\HotkeysConfig.json
+2023-08-06 16:14:04.003 - UploadersConfig save started: C:\Users\Administrador\Documents\ShareX\UploadersConfig.json
+2023-08-06 16:14:04.245 - UploadersConfig save successful: C:\Users\Administrador\Documents\ShareX\UploadersConfig.json
+2023-08-06 16:14:04.331 - HotkeysConfig save successful: C:\Users\Administrador\Documents\ShareX\HotkeysConfig.json
+2023-08-06 16:14:04.360 - ApplicationConfig save successful: C:\Users\Administrador\Documents\ShareX\ApplicationConfig.json
+2023-08-06 16:16:01.367 - ApplicationConfig save started: C:\Users\Administrador\Documents\ShareX\ApplicationConfig.json
+2023-08-06 16:16:01.367 - UploadersConfig save started: C:\Users\Administrador\Documents\ShareX\UploadersConfig.json
+2023-08-06 16:16:01.367 - HotkeysConfig save started: C:\Users\Administrador\Documents\ShareX\HotkeysConfig.json
+2023-08-06 16:16:01.503 - UploadersConfig save successful: C:\Users\Administrador\Documents\ShareX\UploadersConfig.json
+2023-08-06 16:16:01.587 - HotkeysConfig save successful: C:\Users\Administrador\Documents\ShareX\HotkeysConfig.json
+2023-08-06 16:16:01.618 - ApplicationConfig save successful: C:\Users\Administrador\Documents\ShareX\ApplicationConfig.json
+2023-08-06 16:16:58.276 - ApplicationConfig save started: C:\Users\Administrador\Documents\ShareX\ApplicationConfig.json
+2023-08-06 16:16:58.486 - ApplicationConfig save successful: C:\Users\Administrador\Documents\ShareX\ApplicationConfig.json
+2023-08-06 16:17:00.291 - Executing: Abrir janela principal
+2023-08-06 16:17:17.982 - HotkeysConfig save started: C:\Users\Administrador\Documents\ShareX\HotkeysConfig.json
+2023-08-06 16:17:18.135 - HotkeysConfig save successful: C:\Users\Administrador\Documents\ShareX\HotkeysConfig.json
+2023-08-06 16:17:27.032 - ApplicationConfig save started: C:\Users\Administrador\Documents\ShareX\ApplicationConfig.json
+2023-08-06 16:17:27.032 - UploadersConfig save started: C:\Users\Administrador\Documents\ShareX\UploadersConfig.json
+2023-08-06 16:17:27.033 - HotkeysConfig save started: C:\Users\Administrador\Documents\ShareX\HotkeysConfig.json
+2023-08-06 16:17:27.144 - UploadersConfig save successful: C:\Users\Administrador\Documents\ShareX\UploadersConfig.json
+2023-08-06 16:17:27.231 - HotkeysConfig save successful: C:\Users\Administrador\Documents\ShareX\HotkeysConfig.json
+2023-08-06 16:17:27.284 - ApplicationConfig save successful: C:\Users\Administrador\Documents\ShareX\ApplicationConfig.json
